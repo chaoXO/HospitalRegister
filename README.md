@@ -1,2 +1,2 @@
 # HospitalRegister
-jsp+servlet+mysql
+jsp+servlet+mysql8.0
